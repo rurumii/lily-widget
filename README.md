@@ -1,6 +1,6 @@
 # しなもん
 
-a small, quiet time widget for macOS
+a small time widget for macOS
 
 ![preview](preview.png)
 
