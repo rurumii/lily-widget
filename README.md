@@ -2,7 +2,7 @@
 
 a small time widget for macOS
 
-![preview](pic.png)
+![preview](preview.png)
 
 ---
 
