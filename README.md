@@ -2,12 +2,14 @@
 
 <br>
 
-## 概要 · about
+## · about
 
 a minimal macOS time widget built with SwiftUI
 
+![preview](preview.png)
+
 <br>
-## 詳細 · details
+## · details
 ```
 platform   macOS 15.7+
 language   Swift / SwiftUI / WidgetKit
@@ -16,7 +18,7 @@ font       Didot
 
 <br>
 
-## 使い方 · install
+## · install
 
 1. clone the repo
 2. open `widget.xcodeproj` in Xcode
@@ -25,9 +27,8 @@ font       Didot
 
 <br>
 
-## 備考 · notes
+## · notes
 
-- widget name: `しなもん` (cinnamon)
 - custom background image supported
 - no dependencies
 
