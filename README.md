@@ -15,7 +15,7 @@ a small time widget for macOS
 ## install
 1. clone the repo
 2. open `widget.xcodeproj` in Xcode
-3. **Product → Archive → Custom → Copy App**
+3. Product → Archive → Custom → Copy App
 4. move `.app` to Applications and launch
 
 ---
